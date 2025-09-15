@@ -1,4 +1,4 @@
-<h1>Implementing IT Risk Management Using COOBIT - Healthcare Sector</h1>
+<h1>Implementing IT Risk Management Using COBIT - Healthcare Sector</h1>
 
 <h2>Overview</h2>
 
